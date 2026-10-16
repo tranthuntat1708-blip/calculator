@@ -1,0 +1,9 @@
+F:\NTAT\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\NTAT\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\NTAT\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\NTAT\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\NTAT\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\NTAT\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\NTAT\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\NTAT\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\NTAT\Calculator\Calculator\obj\Debug\Calculator.pdb
